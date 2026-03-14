@@ -7,7 +7,7 @@ of software engineering experience. I build backend systems and agentic AI appli
 Python · PyTorch · LangChain · Django · React · AWS · Azure · Docker
 
 ## 🚀 Featured Projects
-- 🔬 [Academic Research Synthesizer]([link](https://github.com/Shivani176/Academic-Research-Synthesizer.git)) — Agentic RAG pipeline with ~95% citation validity
+- 🔬 [Academic Research Synthesizer]((https://github.com/Shivani176/Academic-Research-Synthesizer.git)) — Agentic RAG pipeline with ~95% citation validity
 - 🤖 [LangFormer](https://github.com/Shivani176/LangFormer.git) — Transformer achieving 22% BLEU improvement over Seq2Seq baseline  
 - 🎨 [StableGAN](https://github.com/Shivani176/StableGAN.git) — DCGAN for synthetic data augmentation with ~30% fewer collapse modes
 
