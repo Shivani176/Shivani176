@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shivani 👋
 
-<!--
-**Shivani176/Shivani176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Master's student at University of Mississippi (May 2026) with 2+ years 
+of software engineering experience. I build backend systems and agentic AI applications.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+Python · PyTorch · LangChain · Django · React · AWS · Azure · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🔬 [Academic Research Synthesizer]([link](https://github.com/Shivani176/Academic-Research-Synthesizer.git)) — Agentic RAG pipeline with ~95% citation validity
+- 🤖 [LangFormer](https://github.com/Shivani176/LangFormer.git) — Transformer achieving 22% BLEU improvement over Seq2Seq baseline  
+- 🎨 [StableGAN](https://github.com/Shivani176/StableGAN.git) — DCGAN for synthetic data augmentation with ~30% fewer collapse modes
+
+## 📫 Connect
+[LinkedIn](linkedin.com/in/shivani-rk) · shivani.rk06@gmail.com
